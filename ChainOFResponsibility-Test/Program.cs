@@ -23,7 +23,6 @@ namespace ChainOFResponsibility_Test
             Client.ClientCode(raket);
 
             Console.ReadKey();
-            Console.Clear();
         }
     }
 }
